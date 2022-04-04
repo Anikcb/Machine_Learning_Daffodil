@@ -1,0 +1,25 @@
+
+!----> IMPORTANT LINKS  <----!
+
+Learning:
+1. Stats: https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
+2. data science: https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUJUNlfvCNhJMNjNNpt5ljcR
+3. deep learning: https://www.youtube.com/user/Zan560
+4. math: https://www.mathsisfun.com/calculus/derivatives-partial.html
+5. calculus: https://www.mathsisfun.com/calculus/
+6. Neural network: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+7. Job Interview: https://www.youtube.com/watch?v=tnpV1etgcxs&list=PL2zq7klxX5ATSm5sTdY4JrDSzp72V5-hV
+8. Job: https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww
+9. Learn Keras, Tensorflow, Pytorch
+
+Earning:
+1. Freelancing: https://www.freelancer.com.bd/jobs/data-science/
+2. Job1: https://www.glassdoor.com/
+3. https://www.indeed.com/
+4. LinkedIn: https://www.linkedin.com/
+
+
+Project:
+1. kaggle.com
+2. Github
+3. Become an expert in kaggle: https://www.youtube.com/user/abhisheksvnit
